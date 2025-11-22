@@ -8,8 +8,6 @@
 
 This comprehensive Excel analytics project demonstrates end-to-end data analysis capabilities for **Sales Performance**, **Logistics Optimization**, and **Over-The-Counter (OTC) Inventory Management**. Built specifically to showcase skills relevant to Data Analyst, Sales Analyst, and Logistics Analyst roles at Fortune 500 companies.
 
-### 🎬 Live Demo
-> **[View Interactive Dashboard](#)** | **[Download Excel File](#)**
 
 ---
 
@@ -193,8 +191,7 @@ git clone https://github.com/Pradeepkarra1/Sales-Logistics-OTC-Analysis.git
    - Use slicers to filter by region, date, product
    - Review insights on each analysis tab
 
-### 📺 Video Tutorial
-> **[Watch Setup Walkthrough](#)** (5 minutes)
+
 
 ---
 
@@ -223,21 +220,6 @@ git clone https://github.com/Pradeepkarra1/Sales-Logistics-OTC-Analysis.git
 =((SUMIFS(Sales[Revenue], Sales[Year], 2024) - SUMIFS(Sales[Revenue], Sales[Year], 2023)) 
    / SUMIFS(Sales[Revenue], Sales[Year], 2023)) * 100
 ```
-
----
-
-## 📸 Screenshots
-
-### Executive Dashboard
-![Dashboard Overview](#)
-
-### Sales Analysis
-![Sales Trends](#)
-
-### Logistics Metrics  
-![Logistics Performance](#)
-
----
 
 ## 🎓 Skills Demonstrated
 
